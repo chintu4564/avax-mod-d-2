@@ -15,9 +15,9 @@ const (
 	// TODO: choose a human-readable part for your hyperchain
 	HRP = ""
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "Hyperchain"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "HR"
 )
 
 var ID ids.ID
